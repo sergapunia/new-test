@@ -8,5 +8,5 @@ Hello, i-m student is Netology
 2. Издательство «Читый лист»
 3. Космопорт «Черезтерновый Кзвёздный»
 4. Дизайн-студия имени Слишком Известного Персонажа
-5. 
-Нас можно найти на [git-hub](https://github.com/sergapunia/new-test)
+
+Нас можно найти на [git-hub](https://github.com/sergapunia/new-test/tree/new-tex)
